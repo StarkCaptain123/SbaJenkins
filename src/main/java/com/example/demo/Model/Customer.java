@@ -4,7 +4,7 @@ import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+//model class to put dtable values
 @Entity
 public class Customer {
 	@Id

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.Model.Customer;
 import com.example.demo.Repository.Repository;
-
+//service to get all
 @Service
 public class CustomerService
 {
